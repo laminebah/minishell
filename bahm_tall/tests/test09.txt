@@ -1,0 +1,4 @@
+#
+# test04.txt - Tester la gestion des erreurs(commande innexistante)
+#
+fdhskl

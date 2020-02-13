@@ -1,0 +1,7 @@
+#
+# test04.txt - Tester de la commande jobs 
+#
+xeyes &
+xeyes &
+xeyes &
+jobs

@@ -1,0 +1,4 @@
+#
+# test04.txt - Tester la gestion des erreurs(erreur sur les droits d'un fichier) (il ne faut pas qu'on possède des droit de lecture sur le fichier qu'on veut lire!!)
+#
+cat fich.txt
